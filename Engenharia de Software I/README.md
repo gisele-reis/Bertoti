@@ -6,17 +6,16 @@ Na engenharia de software, além da programação, é preciso atentar-se ao temp
 
 A engenharia de software vai além de apenas escrever o código, se preocupando com a especificação, desenvolvimento, criação e manutenção dos softwares. Os engenheiros de software constroem e testam as funcionalidades do sistema,  visando organização, produtividade e qualidade. A programação é parte da aplicação de engenharia de software, porém, além de escrever o código, é preciso pensar no processo de manutenção do código a longo prazo, nas consequências que uma possível falha pode ocasionar e como resolvê-la rapidamente.
 
-1 - O que é engenharia de software? (qual a relação com programação?)
-É a programação envolvendo tempo, escala e trade offs.
+<p>1 - O que é engenharia de software? (qual a relação com programação?)<br />
+É a programação envolvendo tempo, escala e trade offs.</p>
 
-2 - O que são requisitos?
-É a necessidade do cliente.
+<p>2 - O que são requisitos?<br />
+É a necessidade do cliente.</p>
 
-2.1 - requisitos funcionais:
-Tarefas do sistema. As ações que o sistema realiza.
+<p>2.1 - requisitos funcionais:<br />
+Tarefas do sistema. As ações que o sistema realiza.</p>
 
-2.2 - requisitos não funcionais:
-Qualidades do sistema (performance, estabilidade, escalabilidade).
+<p>2.2 - requisitos não funcionais:<br />
+Qualidades do sistema (performance, estabilidade, escalabilidade).</p>
 
-Desafio: escreva 2 exemplos de trade offs envolvendo requisitos funcionais
 
