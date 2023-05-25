@@ -19,3 +19,7 @@ Tarefas do sistema. As ações que o sistema realiza.</p>
 Qualidades do sistema (performance, estabilidade, escalabilidade).</p>
 
 
+<p>Exemplo Trade-off:<br />
+Uma equipe de desenvolvimento está fazendo um software de gerenciamento de aulas com a ideia principal de ter um calendário com visualização de tarefas, porém foi identificada uma dificuldade no desenvolvimento das funções do calendário, o que atrasaria a entrega. Assim, foi acordado com o cliente, que seria entregue um calendário simplificado, sem a função de visualizar as tarefas.</p>
+
+
