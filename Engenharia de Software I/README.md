@@ -20,6 +20,8 @@ Qualidades do sistema (performance, estabilidade, escalabilidade).</p>
 
 
 <p>Exemplo Trade-off:<br />
-Uma equipe de desenvolvimento está fazendo um software de gerenciamento de aulas com a ideia principal de ter um calendário com visualização de tarefas, porém foi identificada uma dificuldade no desenvolvimento das funções do calendário, o que atrasaria a entrega. Assim, foi acordado com o cliente, que seria entregue um calendário simplificado, sem a função de visualizar as tarefas.</p>
+Uma equipe de desenvolvimento precisa fazer um software de gerenciamento de aulas em Java. Para isso, eles precisam decidir qual tecnologia utilizar: JavaFX ou Java Swing. Ambos apresentam pontos positivos e negativos, sendo que o Java Swing apresenta mais conteúdo disponível, porém trata-se de uma tecnologia mais antiga, enquanto o JavaFX apresenta mais features, mas tem menos conteúdo publicado.</p>
+  
+
 
 
