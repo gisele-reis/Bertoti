@@ -3,7 +3,7 @@
 <details>
   <summary>Abrir poster-resumo</summary>
 <div align=center>
-<img src="https://github.com/gisele-reis/Bertoti/assets/111552213/e1d306e0-c84a-4739-b006-5111e02e79bd" width="500px">
+<img src="https://github.com/gisele-reis/Bertoti/assets/111552213/e1d306e0-c84a-4739-b006-5111e02e79bd" width="700px">
 </div>
 </details>
 <br>
@@ -13,7 +13,7 @@ O design deve sempre manter o usuário informado sobre o que está acontecendo, 
 <details>
   <summary>Exemplo</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/984a74e9-1082-41c5-be98-5498bd6aca25" width="600px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/984a74e9-1082-41c5-be98-5498bd6aca25" width="700px"/>
     <br>
     
   > No site da Netflix, ao passar o mouse em cima de um elemento, este é ampliado e fica em evidência, permitindo 
@@ -22,9 +22,9 @@ O design deve sempre manter o usuário informado sobre o que está acontecendo, 
 </details>
 
 <details>
-  <summary>Contraexemplo</summary>
+  <summary>Erro</summary>
   <div>
-   <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/8ce2ffc8-7e46-4649-a231-ac7a7f0c72f2" width="300px"/>
+   <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/8ce2ffc8-7e46-4649-a231-ac7a7f0c72f2" width="400px"/>
     <br>
     
   > Os vídeos denominados reels do instagram, quando abertos em um navegador, não apresentam uma barra de status
@@ -59,10 +59,10 @@ Os usuários costumam realizar ações por engano. Eles precisam de uma saída d
   </div>
 </details>
 <details>
-  <summary>Contraexemplo</summary>
+  <summary>Erro</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/7a1b36e8-f1c9-41a9-95e0-9dd3e2e1ed93" width="600px"/>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/8b2c55cd-8d3f-4601-b3d2-9592bb8144e9" width="500px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/7a1b36e8-f1c9-41a9-95e0-9dd3e2e1ed93" width="800px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/8b2c55cd-8d3f-4601-b3d2-9592bb8144e9" width="700px"/>
     <br>
     
   > No site do Correios, ao navegar para a tela de login, o site não disponibiliza uma alternativa para o usuário retornar para
@@ -83,9 +83,9 @@ Os usuários não devem se perguntar se palavras, situações ou ações diferen
   </div>
 </details>
 <details>
-  <summary>Contraexemplo</summary>
+  <summary>Erro</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/376acad0-ee96-4c42-88ce-b6d7326382a7" width="600px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/376acad0-ee96-4c42-88ce-b6d7326382a7" width="700px"/>
     <br>
     
   > Na parte de ajustes do site Aliexpress é possível notar algumas inconsistências nos termos utilizados, como na barra lateral em há
@@ -111,7 +111,7 @@ Miniminize a carga de memória do usuário tornando os elementos, ações e opç
 <details>
   <summary>Exemplo</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/bf92fbd2-31a9-43cf-9324-7305faace225" width="400px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/bf92fbd2-31a9-43cf-9324-7305faace225" width="600px"/>
     <br>
     
   > Alguns sites, como o da nike por exemplo, exibem o caminho percorrido pelo usuário, facilitando a visualização do que foi feito para chegar no ponto em que está
@@ -143,7 +143,7 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
   </div>
 </details>
 <details>
-  <summary>Contraexemplo</summary>
+  <summary>Erro</summary>
 <div>
    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/9e4ea2e0-316c-43d8-a9b9-d6b6517e978a" width="400px"/>
     <br>
@@ -166,9 +166,9 @@ As mesagens de erros devem ser expressas em linguagem simples (sem códigos de e
   </div>
 </details>
 <details>
-  <summary>Contraexemplo</summary>
+  <summary>Erro</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/2992e3c0-7c0f-4c24-ac8c-dc708855eb0e" width="400px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/2992e3c0-7c0f-4c24-ac8c-dc708855eb0e" width="500px"/>
     <br>
     
   > No site do Correios, quando os dados de cadastro são colocados de forma errada, a mensagem exibida não fornece informações suficientes para o que o usuário identifique seu erro.
@@ -180,7 +180,7 @@ As mesagens de erros devem ser expressas em linguagem simples (sem códigos de e
 <details>
   <summary>Exemplo</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/15a1a2ba-126e-4ce8-b046-fd0fd309a8f4" width="600px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/15a1a2ba-126e-4ce8-b046-fd0fd309a8f4" width="700px"/>
     <br>
     
   > A página inicial do site Trello, fornece informações para que o usuário tenha uma introdução das ferramentas/utilidades disponíveis,
