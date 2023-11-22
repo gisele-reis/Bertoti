@@ -114,7 +114,7 @@ Miniminize a carga de memória do usuário tornando os elementos, ações e opç
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/bf92fbd2-31a9-43cf-9324-7305faace225" width="400px"/>
     <br>
     
-  > 
+  > Alguns sites, como o da nike por exemplo, exibem o caminho percorrido pelo usuário, facilitando a visualização do que foi feito para chegar no ponto em que está
   </div>
 </details>
 
@@ -127,7 +127,7 @@ Os processos flexíveis podem ser executados de diferentes maneiras, para que as
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/b9b0d8db-bdba-4e12-82bb-5b18f3fe835b" width="400px"/>
     <br>
     
-  > 
+  > Muitos aplicativos (como o VSCode) fornecem atalhos para agilizar os processos do usuário, porém alguns preferem usar as funções através do menu, o que também é possível. 
   </div>
 </details>
 
@@ -139,13 +139,13 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/50cd5ebb-e31d-4886-bdfd-7df1badca210" width="400px"/>
     <br>
     
-  > 
+  > O Google geralmente segue uma estética bem minimalista, como no caso da tela de login, onde só são visuaizadas as funções essenciais, sem conteúdo que tire o foco do usuário.
   </div>
 </details>
 <details>
   <summary>Contraexemplo</summary>
 <div>
-   <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/9e4ea2e0-316c-43d8-a9b9-d6b6517e978a" width="200px"/>
+   <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/9e4ea2e0-316c-43d8-a9b9-d6b6517e978a" width="400px"/>
     <br>
     
   > A página inicial do aplicativo SHEIN apresenta muitas informações, o que pode confundir o usuário e prejudicar a sua experiência
@@ -161,7 +161,8 @@ As mesagens de erros devem ser expressas em linguagem simples (sem códigos de e
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/9d2b0546-afa8-486a-8773-19941a612c56" width="400px"/>
     <br>
     
-  > 
+  > No Pinterest, quando o usuário digita um email inválido no login, é possível visualizar uma mensagem de erro bem objetiva e clara,
+  > permitindo ao usuário reconhecer o erro com facilidade.
   </div>
 </details>
 <details>
@@ -170,7 +171,7 @@ As mesagens de erros devem ser expressas em linguagem simples (sem códigos de e
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/2992e3c0-7c0f-4c24-ac8c-dc708855eb0e" width="400px"/>
     <br>
     
-  > 
+  > No site do Correios, quando os dados de cadastro são colocados de forma errada, a mensagem exibida não fornece informações suficientes para o que o usuário identifique seu erro.
   </div>
 </details>
 
@@ -179,10 +180,11 @@ As mesagens de erros devem ser expressas em linguagem simples (sem códigos de e
 <details>
   <summary>Exemplo</summary>
   <div>
-    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/15a1a2ba-126e-4ce8-b046-fd0fd309a8f4" width="400px"/>
+    <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/15a1a2ba-126e-4ce8-b046-fd0fd309a8f4" width="600px"/>
     <br>
     
-  > 
+  > A página inicial do site Trello, fornece informações para que o usuário tenha uma introdução das ferramentas/utilidades disponíveis,
+  > oferencendo uma melhor experiência e facilitando o uso para o usuário. 
   </div>
 </details>
 
