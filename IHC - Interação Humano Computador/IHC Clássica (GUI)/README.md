@@ -101,7 +101,8 @@ Boas mensagens de erros são importantes, mas os melhores designs evitam cuidado
     <img src="https://github.com/gisele-reis/Bertoti/assets/111552213/36223be8-acc0-439e-9cd1-725f0b272e02" width="400px"/>
     <br>
     
-  > 
+  > Na página de cadastro da clínica "Amor Saúde" é informado ao usuário todos os requisitos a serem cumpridos na hora de criar uma senha,
+  > e esses requisitos vão saindo da lista a medida que o usuário os cumpre, evitando possíveis erros que possam ser cometidos na hora de cadastrar a senha  
   </div>
 </details>
 
