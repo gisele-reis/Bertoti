@@ -1,1 +1,1 @@
-![image](https://github.com/gisele-reis/Bertoti/assets/111552213/205fae85-02e0-4c92-8dcb-5480de121333)
+![image](https://github.com/gisele-reis/Bertoti/assets/111552213/6753923d-2537-4245-b0d0-aaf54f68382b)
