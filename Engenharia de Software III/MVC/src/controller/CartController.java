@@ -5,7 +5,7 @@ import model.CartItem;
 import model.Product;
 import view.CartView;
 
-public class CartController {
+public class CartController implements ControllerInterface{
     private Cart cart;
     private CartView cartView;
 
@@ -14,12 +14,14 @@ public class CartController {
         this.cartView = cartView;
     }
 
+    @Override
     public void addItemToCart(Product product, int quantity) {
         CartItem item = new CartItem(product, quantity);
         cart.addItem(item);
         cartView.displayCart(cart);
     }
 
+    @Override
     public void addItemToCart(CartItem item) {
         cart.addItem(item);
     }
