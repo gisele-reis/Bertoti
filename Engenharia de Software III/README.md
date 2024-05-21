@@ -8,7 +8,7 @@
 ![image](https://github.com/gisele-reis/Bertoti/assets/111552213/15fd9c57-cbc3-479b-b9e8-7b46503f760f)
 
 ## Singleton
-![image](https://github.com/gisele-reis/Bertoti/assets/111552213/f90a61fa-09bd-4781-9d35-0bac1eaa4792)
+![image](https://github.com/gisele-reis/Bertoti/assets/111552213/bb911b2c-688d-43b0-a2a3-858f1b67370c)
 
 ## Facade
 ![image](https://github.com/gisele-reis/Bertoti/assets/111552213/c0560676-29cc-4bc7-b028-aeeceb88ff2f)
